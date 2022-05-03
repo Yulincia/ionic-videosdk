@@ -1,0 +1,11 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-videosdk",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"hostname": "url.com",
+		"androidScheme": "https",
+		"iosScheme": "https"
+	}
+}

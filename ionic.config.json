@@ -1,5 +1,7 @@
 {
   "name": "ionic-videosdk",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
